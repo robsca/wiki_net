@@ -1,5 +1,5 @@
 # wiki_net
-This streamlit app create a Network graph representation of the correlated word of two words of your choice.
+Search the connections of any word in wikipedia and create a Visualization of all the connections with the correlated words.
 
 SETUP:
 ```
